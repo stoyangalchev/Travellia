@@ -43,7 +43,7 @@ To run the project locally, follow these steps:
 ### Homepage
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae turpis elit. Proin gravida nulla id leo interdum, ac dapibus erat convallis.
 
-![Homepage Screenshot](images/homepage.png)
+
 
 ## 📝 Content (Lorem Ipsum)
 
