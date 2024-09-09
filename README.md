@@ -44,7 +44,6 @@ To run the project locally, follow these steps:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae turpis elit. Proin gravida nulla id leo interdum, ac dapibus erat convallis.
 
 
-
 ## 📝 Content (Lorem Ipsum)
 
 All content is currently placeholder text, using **Lorem Ipsum**.
