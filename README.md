@@ -1,6 +1,6 @@
 # Travellia 🌍
 
-Welcome to **Travellia** – your gateway to exploring the most beautiful and exotic locations around the world! This website is built using **HTML** ,**JS** and **CSS**, providing a responsive and aesthetically pleasing travel experience.
+Welcome to **Travellia** – your gateway to exploring the most beautiful and exotic locations around the world! This website is built using **HTML** , **JS** and **CSS**, providing a responsive and aesthetically pleasing travel experience.
 
 ## 🌍 Deployed ✅ -> [Click Here](https://stoyangalchev.github.io/Travellia/)
 ## 📸Screenshot
